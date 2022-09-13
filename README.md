@@ -19,6 +19,6 @@ Artificial Intelligence involving medical imaging deep-learning systems has been
 <br>**Figure.** Well-aerated Lung on Admitting Chest CT to Predict Adverse Outcome in COVID- 19 Pneumonia | Radiology
 
 
-Therefore, developing an automated analysis system is necessary to save medical professionals valuable time. So a **deep learning algorithm using CT images to screen for CoronaVirus Disease (COVID-19)**  is proposed here. 
+Therefore, developing an automated analysis system is necessary to save medical professionals valuable time. So a **deep learning algorithm using CT scan images to screen for CoronaVirus Disease (COVID-19)**  is proposed here. 
 
 *The accuracy of the model will eventually increase if the number of dataset is increased
